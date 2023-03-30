@@ -5,7 +5,7 @@ const config: Config = {
     // AIGCSDK_AI_PAINTING_ANIME
     mode: 'AI_PAINTING_SPRING',
 
-    botToken: 'put_your_token_here',
+    botToken: '6110672073:AAH1FsEN1JdqX-7Gg4ziz0WPd7cUV8mYvlc',
 
     keepFiles: {
         compared: true,
